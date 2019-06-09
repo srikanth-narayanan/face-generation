@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Project Specific data folders
+__MACOSX/
+processed_celeba_small.zip
+processed_celeba_small/
+
