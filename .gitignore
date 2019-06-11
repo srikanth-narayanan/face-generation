@@ -108,3 +108,5 @@ __MACOSX/
 processed_celeba_small.zip
 processed_celeba_small/
 processed-celeba-small.zip
+train_samples.pkl
+
